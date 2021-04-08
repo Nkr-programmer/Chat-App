@@ -3,11 +3,14 @@ Building a Chat-APP in Flutter.
 
 Show some ❤️ and star the repo to support the project Screenshots
 
-<img src="https://user-images.githubusercontent.com/55958579/114082570-89a4e400-98cb-11eb-9d46-a8abd1770df8.jpg" width="300px" height="600px" />
 <p float="left">
-<img src="https://user-images.githubusercontent.com/55958579/114082578-8d386b00-98cb-11eb-9b53-6b252681f2a3.jpg" width="300px" height="600px" />
-<img src="https://user-images.githubusercontent.com/55958579/114082583-90335b80-98cb-11eb-8ccc-4279483d9fa9.jpg" width="300px" height="600px"> 
+<img src="https://user-images.githubusercontent.com/55958579/114085678-4ba9bf00-98cf-11eb-802e-836a467183c0.jpg" width="300px" height="600px" />
+<img src="https://user-images.githubusercontent.com/55958579/114085691-51070980-98cf-11eb-9c70-9cb9547420b9.jpg" width="300px" height="600px"> 
 </p>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/55958579/114085749-654b0680-98cf-11eb-9bc0-488eec7ce5fa.jpg" width="300px" height="600px" />
+<img src="https://user-images.githubusercontent.com/55958579/114085986-b4913700-98cf-11eb-996e-38d5fce9d1e6.jpg" width="300px" height="600px" />
+<img src="https://user-images.githubusercontent.com/55958579/114082583-90335b80-98cb-11eb-8ccc-4279483d9fa9.jpghttps://user-images.githubusercontent.com/55958579/114085789-7267f580-98cf-11eb-8dd1-3de7e2d19bc8.jpg
 
 Chat App This Project is a Simple Chat application in which
 Email and Password is used for Authentication. In which anyone can 
